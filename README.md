@@ -17,5 +17,5 @@ L<sub>&infin;</sub>=16 is applied.
 #### ```main_feature_FT_tUAP```: Fine-tune date-free targeted UAPs. 
 
 ### More results
-We provide ablation study on fine-tuning iterations N_ft and target layer k, visual comparison, and the results of date-free targeted UAP, in the 'supp.pdf'.
+We provide ablation study on fine-tuning iterations N_ft and target layer k, visual comparison, and the results of date-free targeted UAP, in the 'supp.pdf'. We also provide the results when an alternative method (RPA) is used for calculating the aggregate gradient.
 
