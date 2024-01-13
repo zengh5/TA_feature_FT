@@ -10,7 +10,7 @@ CE,
 Po+Trip,  
 [Logit](https://github.com/ZhengyuZhao/Targeted-Transfer),   
 [SupHigh](https://github.com/zengh5/Transferable_targeted_attack).  
-[SU](https://github.com/zhipeng-wei/Self-Universality)).  
+[SU](https://github.com/zhipeng-wei/Self-Universality).  
 All attacks are integrated with TI, MI, and DI. Baseline attacks are run with N=200 iterations to ensure convergence. When fine-tuning is enabled, we set N=160, N_ft=10, to make the running time with/without fine-tuning comparable.
 L<sub>&infin;</sub>=16 is applied.
 
