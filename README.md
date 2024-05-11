@@ -1,5 +1,5 @@
 # TA_feature_FT
-H. Zeng, B. Chen, A. Peng, Enhancing targeted transferability via feature space fine-tuning, to appear in 2024ICASSP, Seoul. We sincerely invite interested researchers to discuss relevant issues in person.
+H. Zeng, B. Chen, A. Peng, Enhancing targeted transferability via feature space fine-tuning, [arXiv](https://arxiv.org/abs/2401.02727) 2024ICASSP, Seoul. We sincerely invite interested researchers to discuss relevant issues in person.
 
 ### Dataset
 The 1000 images are from the NIPS 2017 ImageNet-Compatible dataset. [official repository](https://github.com/cleverhans-lab/cleverhans/tree/master/cleverhans_v3.1.0/examples/nips17_adversarial_competition/dataset) or [Zhao's Github](https://github.com/ZhengyuZhao/Targeted-Tansfer/tree/main/dataset). 
