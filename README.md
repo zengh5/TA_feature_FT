@@ -5,7 +5,7 @@ H. Zeng, B. Chen, A. Peng, Enhancing targeted transferability via feature space 
 Our method works in an add-on manner. The attack ability of the final AE is mainly determined by the baseline attack you set, not the proposed feature-space fine-tuning (FFT). Hence, it _does not_ make sense to directly compare our method with SOTA baseline attacks, such that: FFT vs. Logit, or FFT vs. SU.　  
 A good practice to test FFT is: CE+FFT vs. CE, Logit+FFT vs. Logit, or SU+FFT vs. SU.
 
-Following the results when Resnet50 as the surrogate:
+Following are the results when Resnet50 as the surrogate:
 | method\victim     | Inc-v3 | Dense121 | VGG16 |
 | -------------     | ------ |--------- |------ |
 | CE (200 iters)    | 3.9    | 44.9     | 30.5  |
