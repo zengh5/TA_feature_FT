@@ -2,7 +2,7 @@
 H. Zeng, B. Chen, A. Peng, Enhancing targeted transferability via feature space fine-tuning, [arXiv](https://arxiv.org/abs/2401.02727) 2024ICASSP, Seoul. We sincerely invite interested researchers to discuss relevant issues in person.
 
 ### Note
-Our method works in an add-on manner. The attack ability of the final AE is mainly determined by the baseline attack you set, not the proposed feature-space fine-tuning (FFT). Hence, it _does not_ make sense to directly compare our method with SOTA baseline attacks, such that: FFT vs. Logit or FFT vs. SU.　
+Our method works in an add-on manner. The attack ability of the final AE is mainly determined by the baseline attack you set, not the proposed feature-space fine-tuning (FFT). Hence, it _does not_ make sense to directly compare our method with SOTA baseline attacks, such that: FFT vs. Logit, or FFT vs. SU.　  
 A good practice to test FFT is: CE+FFT vs. CE, Logit+FFT vs. Logit, or SU+FFT vs. SU.
 
 ### Dataset
